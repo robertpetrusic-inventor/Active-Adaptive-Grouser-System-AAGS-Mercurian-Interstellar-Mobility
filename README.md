@@ -1,0 +1,2 @@
+# Active-Adaptive-Grouser-System-AAGS-Mercurian-Interstellar-Mobility
+Engineering framework for the "Wheel of Nails," a software-defined rover wheel utilizing radially actuated linear motors for real-time terrain adaptation. This repository details the mechanical architecture of planetary roller screws, ALON radiation-hardened optics, and molten salt thermal storage systems designed for extreme environments.
